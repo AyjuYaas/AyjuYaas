@@ -1,7 +1,7 @@
 ## Hello There
 
 ### Who Am I?
-Just a Student Who Is Always Learning. (Maybe not Always ## 😝)
+Just a Student Who Is Always Learning. (Maybe not Always 🤥😝)
 
 ### What I've Worked With:
 
