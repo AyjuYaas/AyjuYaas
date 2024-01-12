@@ -12,7 +12,7 @@ Just a Student who is Always Learning. (Maybe not Always 😝)
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="css3" width="50" height="50"/> 
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
 </a>
 <a href="https://getbootstrap.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="50" height="50"/>
