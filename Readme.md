@@ -5,7 +5,7 @@
 
 ### What I've Worked With:
 
-<p>
+<p style="background-color: grey">
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="50" height="50"/>
