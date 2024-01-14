@@ -5,7 +5,7 @@ Just a Student who's thrilled to learn & eager for any new experiences.
 
 ### What I've Worked With:
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="text-decoration: none"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="html5" width="50" height="50"/>
 </a> &emsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"> 
