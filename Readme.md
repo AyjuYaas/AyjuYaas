@@ -22,7 +22,7 @@ Just a Student Who Is Always Learning. (Maybe not Always 🤥😝)
 </a> &emsp;
 <a href="https://git-scm.com/doc">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="git" width="50" height="50"/>
-</a>
+</a> &emsp;
 <a href="https://nodejs.org/docs/latest/api/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" height="50"/> 
 </a> &emsp;
