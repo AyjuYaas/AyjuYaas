@@ -5,7 +5,7 @@ Just a Student who's thrilled to learn & eager for any new experiences.
 
 ### What I've Worked With:
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="text-decoration: none;"> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="html5" width="50" height="50"/>
 </a> &emsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"> 
@@ -35,4 +35,3 @@ Just a Student who's thrilled to learn & eager for any new experiences.
 <a href="https://react.dev/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="50" height="50"/>
 </a> &emsp;
-<a href="https://www.google.com/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">custom link</a>
