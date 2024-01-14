@@ -1,7 +1,7 @@
 ## Hello There
 
 ### Who Am I?
-Just a Student who is thrilled to learn & experience.
+Just a Student who's thrilled to learn & eager for any new experiences.
 
 ### What I've Worked With:
 
