@@ -35,3 +35,6 @@ Just a Student who's thrilled to learn & eager for any new experiences.
 <a href="https://react.dev/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="50" height="50"/>
 </a> &emsp;
+<a href="https://www.postman.com/">
+    <img src="https://www.cdnlogo.com/logos/p/20/postman.svg" alt="react" width="50" height="50"/>
+</a> &emsp;
