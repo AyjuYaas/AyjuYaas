@@ -24,7 +24,7 @@ Just a Student who's thrilled to learn & eager for any new experiences.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="git" width="50" height="50"/>
 </a> &emsp;
 <a href="https://nodejs.org/docs/latest/api/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" height="50"/> 
+    <img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" alt="nodejs" width="50" height="50"/> 
 </a> &emsp;
 <a href="https://expressjs.com/">
     <img src="https://icongr.am/devicon/express-original.svg?size=128&color=db9e9e" alt="express" width="50" height="50"/>
