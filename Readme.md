@@ -32,6 +32,9 @@ Just a Student who's thrilled to learn & eager for any new experiences.
 <a href="https://www.mongodb.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="50" height="50"/>
 </a> &emsp;
+<a href="https://www.mysql.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mongodb" width="50" height="50"/>
+</a> &emsp;
 <a href="https://react.dev/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="50" height="50"/>
 </a> &emsp;
