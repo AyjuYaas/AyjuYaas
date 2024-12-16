@@ -42,8 +42,11 @@ Just a Student who's thrilled to learn & eager for any new experiences.
     <img src="https://www.cdnlogo.com/logos/p/20/postman.svg" alt="react" width="50" height="50"/>
 </a> &emsp;
 <a href="https://www.php.net/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="laravel" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="php" width="50" height="50"/>
 </a> &emsp;
 <a href="https://laravel.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="laravel" width="50" height="50"/>
+</a> &emsp;
+<a href="https://www.python.org/doc/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="50" height="50"/>
 </a> &emsp;
