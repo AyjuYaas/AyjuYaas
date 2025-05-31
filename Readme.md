@@ -17,9 +17,6 @@ Just a Student who's thrilled to learn & eager for any new experiences.
 <a href="https://getbootstrap.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="50" height="50"/>
 </a> &emsp;
-<a href="https://jquery.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" alt="jquery" width="50" height="50"/> 
-</a> &emsp;
 <a href="https://git-scm.com/doc">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="git" width="50" height="50"/>
 </a> &emsp;
